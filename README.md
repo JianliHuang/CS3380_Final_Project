@@ -150,4 +150,5 @@ Please visit our Book Order System application at this url:http://jiacong.rf.gd/
    http://jiacong.rf.gd/deletetable.php
    This step is dropping a specific table of database.
 ### Entity Relationship Diagram (ERD)
+![](https://github.com/JianliHuang/CS3380_Final_Project/blob/master/Entity%20Relationship%20Diagram%20(ERD).png)
 ![](https://github.com/JianliHuang/CS3380_Final_Project/blob/master/Website%20Flowchart.png)
