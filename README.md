@@ -108,6 +108,7 @@ Please visit our Book Order System application at this url:http://jiacong.rf.gd/
    1. Create new category of book, for example "History", "Teen".  
    -Create a new table by getting table name from input of user. 
    
+   http://jiacong.rf.gd/createnewtable.php
    This step is creating a new table in our database. 
       
 - **Read**
@@ -117,6 +118,7 @@ Please visit our Book Order System application at this url:http://jiacong.rf.gd/
    4. Display all books from 5 categories by customer.
    -Select table and display it by getting table name from input of user.
    
+   http://jiacong.rf.gd/index.php
    This step is using select sql to get result from database and display result
    
 - **Insert**
@@ -124,24 +126,28 @@ Please visit our Book Order System application at this url:http://jiacong.rf.gd/
   1.Add a new book of a category.
   -Create new book by getting input 'Name', 'Price', 'Author' and 'Stock' of user.
   
+  http://jiacong.rf.gd/book_form.php
   This step is inserting new data into a table of database.
   
 - **Update**
    1. Change price of a book in certain category. 
    - Change the price of a book in a table by getting input new price and book id from user.
    
+   http://jiacong.rf.gd/book_form_update.php
    This step is updating 'Price' data for a specific dish id in table of database.
    
  - **Delete**
    1. Delete a book inside a catergory table.
    - Delete a book by getting input book 'Name' from user.
    
+   http://jiacong.rf.gd/book_form_delete.php
    This step is delete specific data in a table of database.
 
  - **Drop**
    1. Drop a category of book in manager version.
    - Drop a table by getting input of table name from user.
    
+   http://jiacong.rf.gd/deletetable.php
    This step is dropping a specific table of database.
 ### Entity Relationship Diagram (ERD)
 ![](https://github.com/JianliHuang/CS3380_Final_Project/blob/master/Website%20Flowchart.png)
