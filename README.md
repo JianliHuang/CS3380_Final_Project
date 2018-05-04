@@ -144,3 +144,4 @@ Please visit our Book Order System application at this url:http://jiacong.rf.gd/
    
    This step is dropping a specific table of database.
 ### Entity Relationship Diagram (ERD)
+![](https://github.com/JianliHuang/CS3380_Final_Project/blob/master/Website%20Flowchart.png)
