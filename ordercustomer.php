@@ -78,7 +78,7 @@
 <body>
 <div id="boxes">
     
-    <img src="img/pic1.jpg" alt="sq2" id="it" class="sqr" onmouseover="showwords('Book Category')" onclick="window.location.href='menu.php'">
+    <img src="img/pic1.jpg" alt="sq2" id="it" class="sqr" onmouseover="showwords('Book Category')" onclick="window.location.href='bookcategory.php'">
     <img src="img/pic2.jpg" alt="sq3" id="jp" class="sqr" onmouseover="showwords('Pictures')" onclick="window.location.href='picture1.html'">
     <img src="img/pic3.jpg" alt="sq4" id="tl" class="sqr" onmouseover="showwords('Comment')" onclick="window.location.href='Comment.php'">
     
